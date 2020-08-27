@@ -1,0 +1,2 @@
+# mechatronics-arduino
+Program the M5Stack such that the three buttons interact with the screen.  the M5Stack core comes with the LCD and three buttons, namely “A”, “B” and “C” and the output is like this The “Hello World” is shown on screen in “YELLOW” Press Button “A”, the “Hello World” is shown in “RED” Press Button “A”, the “Hello World” is shown in “GREEN” Press Button “A”, the “Hello World” is shown in “BLUE”
